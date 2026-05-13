@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+myenv/
+auto_setup.log
+logs/
+logs/*.log
+data/default_mac_address.json
+data/changes_tracking.json
+data/auto_changes.json
+data/changes_smart.json
+data/mac_profiles.json
+data/settings.json
